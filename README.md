@@ -1,20 +1,15 @@
-- 👋 Hi, I’m @soeun11
+
 
 <a href="https://github.com/devxb/gitanimals">
  
-<a href="<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=soeun11&utm_content=farm">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=soeun11&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/soeun11"
   width="600"
   height="300"
 />
-</a>">
-  <img
-    src="https://render.gitanimals.org/lines/soeun11"
-    width="600"
-    height="120"
-  />
 </a>
+
   
 </a>
 
