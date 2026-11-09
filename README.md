@@ -44,7 +44,7 @@
 - 이슈·브랜치·PR·커밋 컨벤션을 정리하고 xcconfig로 팀 ID 설정을 분리해 5인 팀의 Git 충돌 감소
 
 ### FLINT — SOPT 대외동아리 iOS 앱 개발
-`2025.09 - 2026.01` · Swift · UIKit · SnapKit · Then · Moya · Combine · 앱스토어 출시 예정 · **SOPT 데모데이 우수상**
+`2025.09 - 진행중` · Swift · UIKit · SnapKit · Then · Moya · Combine · 앱스토어 출시 예정 · **SOPT 데모데이 우수상**
 
 - Clean Architecture를 Presentation / Domain / Data / Core 계층으로 구성하고, Domain의 Interface를 Data의 Repository가 구현하는 구조로 의존성 분리
 - 화면(Home 등)과 공통(Components·Extensions) 단위로 Presentation을 모듈화해, 여러 기능을 오가며 작업해도 충돌하지 않는 구조에 맞춰 개발
